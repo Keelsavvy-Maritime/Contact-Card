@@ -1,12 +1,10 @@
 BEGIN:VCARD
-VERSION:4.0
-REV:20260617T021134Z
-N:Sharma;Vishnu;;;
+VERSION:3.0
 FN:Vishnu Sharma
-ORG;ALTID=:Keelsavvy Maritime Pte. Ltd.;
-TITLE;ALTID=:Managing Director
-EMAIL;TYPE=WORK,INTERNET:vishnu.sharma@keelsavvy-maritime.com
-TEL;TYPE=WORK,VOICE:+{65)96188227
-ADR;TYPE=WORK,POSTAL:;;60 Paya Lebar Road, #06-28 Paya Lebar
-  Square;;;409051;Singapore
+N:Sharma;Vishnu;;;
+ORG:Keelsavvy Maritime Pte. Ltd.
+TITLE:Managing Director
+TEL;TYPE=work,voice:+65 96188227
+EMAIL;TYPE=internet,work:vishnu.sharma@keelsavvy-maritime.com
+ADR;TYPE=work:;;60 Paya Lebar Road, #06-28 Paya Lebar Square;Singapore;;409051;Singapore
 END:VCARD
